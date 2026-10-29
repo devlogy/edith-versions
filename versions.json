@@ -1,0 +1,28 @@
+{
+  "canal": "Actu spéciale Edith",
+  "produit": "Edith",
+  "editeur": "Devlogy",
+  "derniere": "2.0.0",
+  "maj": "2026-10-29",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "date": "2026-10-29",
+      "titre": "Edith 2.0 : mon carnet de nouveautés",
+      "chapeau": "J'ai maintenant un numéro de version. À chaque nouveauté, je te l'annonce ici, dans « Nouveau chez Edith ».",
+      "resume": "Première version numérotée d'Edith. Elle arrive avec un journal des versions dans l'admin et le canal « Actu spéciale Edith », qui annonce les nouvelles versions aux Edith installées chez les clients de Devlogy.",
+      "equipe": "**J'ai maintenant un numéro de version : je suis Edith 2.0.** Quand j'apprends quelque chose de nouveau, je te le dis ici, dans un article « Nouveau chez Edith ».\n\nCe que tu as déjà dans cette version :\n\n- **Des missions par plateforme.** Je lis la documentation officielle à ta place, je te montre le chemin en schémas, démos et quiz, et je suis tes progrès.\n- **La Bibliothèque de l'équipe.** Les meilleures réponses, tutos et astuces, validés par l'admin. Le bouton « Proposer » sous mes messages y envoie les tiens.\n- **Mes actus.** Ma veille du lundi et du jeudi sur tes plateformes et leur secteur.\n- **Des rappels malins**, aux jours que tu choisis, qui s'adaptent à ton rythme.\n- **Copier, Word et PDF** sous chaque message, pour garder ou partager une réponse.\n- **Le bouton « Nouvelle réponse »**, pour revenir en bas de la conversation quand tu es remonté·e.\n\nRien à faire de ton côté : continue tes missions !",
+      "admin": "- Le nouvel onglet **Versions** de l'admin affiche la version installée, son journal et l'état du canal.\n- Les Edith des clients reçoivent les nouvelles versions par le canal « Actu spéciale Edith » (dépôt public `devlogy/edith-versions`). Leur admin les voit en premier, puis les applique en une phrase à Claude, avec le plugin Edith.\n- Une nouvelle règle d'accès protège le journal des versions : tout le monde le lit, seul l'admin l'écrit.\n- Les textes d'Edith prennent le nom de l'organisation réglé dans l'onglet Versions.",
+      "impact": {
+        "interface": true,
+        "prompt": true,
+        "base": true,
+        "taches": false
+      },
+      "importance": "majeure",
+      "promptAjouts": "",
+      "migration": "",
+      "capacites": true
+    }
+  ]
+}
