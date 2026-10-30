@@ -2,6 +2,19 @@
 
 Edith est la mentore digitale conçue par Devlogy. Chaque version part de l'instance zéro (Devlogy) et rejoint les Edith des clients quand leur admin l'applique.
 
+## 2.0.1 — Edith 2.0.1 : l'écran « Nouvelle mission » corrigé
+
+*2026-10-30 · Correctif · touche : Interface*
+
+Correctif : l'écran qui vérifie une nouvelle mission ne déborde plus, et une phrase tapée à la place du nom de la plateforme ne devient plus un faux domaine.
+
+### Pour l'admin
+
+- L'écran « Vérifie la mission » s'élargit et ne déborde plus, même avec un nom de domaine très long. Les menus de rôle restent visibles, sur ordinateur comme sur téléphone.
+- Une phrase tapée dans le champ « Plateforme » (« la plateforme est Resend, je voudrais… ») ne produit plus de faux domaine. Si la phrase contient un vrai site (resend.com), Edith le reprend.
+- « Ajouter » refuse ce qui n'est pas un nom de domaine, avec un message.
+- Les faux domaines déjà enregistrés dans une mission sont écartés à l'ouverture.
+
 ## 2.0.0 — Edith 2.0 : mon carnet de nouveautés
 
 *2026-10-29 · Majeure · touche : Interface, Prompt, Base de données*

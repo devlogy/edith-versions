@@ -2,9 +2,28 @@
   "canal": "Actu spéciale Edith",
   "produit": "Edith",
   "editeur": "Devlogy",
-  "derniere": "2.0.0",
-  "maj": "2026-10-29",
+  "derniere": "2.0.1",
+  "maj": "2026-10-30",
   "versions": [
+    {
+      "version": "2.0.1",
+      "date": "2026-10-30",
+      "titre": "Edith 2.0.1 : l'écran « Nouvelle mission » corrigé",
+      "chapeau": "",
+      "resume": "Correctif : l'écran qui vérifie une nouvelle mission ne déborde plus, et une phrase tapée à la place du nom de la plateforme ne devient plus un faux domaine.",
+      "equipe": "",
+      "admin": "- L'écran « Vérifie la mission » s'élargit et ne déborde plus, même avec un nom de domaine très long. Les menus de rôle restent visibles, sur ordinateur comme sur téléphone.\n- Une phrase tapée dans le champ « Plateforme » (« la plateforme est Resend, je voudrais… ») ne produit plus de faux domaine. Si la phrase contient un vrai site (resend.com), Edith le reprend.\n- « Ajouter » refuse ce qui n'est pas un nom de domaine, avec un message.\n- Les faux domaines déjà enregistrés dans une mission sont écartés à l'ouverture.",
+      "impact": {
+        "interface": true,
+        "prompt": false,
+        "base": false,
+        "taches": false
+      },
+      "importance": "correctif",
+      "promptAjouts": "",
+      "migration": "",
+      "capacites": false
+    },
     {
       "version": "2.0.0",
       "date": "2026-10-29",

@@ -11,4 +11,4 @@ Ce dépôt ne contient que les notes de version :
 
 Le code d'Edith n'est pas ici : il est livré par le plugin Edith, que Devlogy remet à chaque organisation cliente.
 
-Dernière version : **2.0.0** (2026-10-29).
+Dernière version : **2.0.1** (2026-10-30).
