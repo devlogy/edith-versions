@@ -2,6 +2,23 @@
 
 Edith est la mentore digitale conçue par Devlogy. Chaque version part de l'instance zéro (Devlogy) et rejoint les Edith des clients quand leur admin l'applique.
 
+## 2.1.0 — Des sources discrètes
+
+*2026-11-11 · Mineure · touche : Interface*
+
+Les sources consultées se replient en une ligne discrète, « 5 sources consultées », toujours en bas de la réponse. Un clic les déplie en une liste de liens. Même présentation dans les articles des Actualités.
+
+### Pour l'équipe
+
+**Mes sources se font discrètes.** Elles tiennent sur une ligne en bas de ma réponse, « 5 sources consultées » : un clic la déplie pour voir les liens.
+
+- **Plus de confusion** avec les réponses d'un quiz ou les suggestions à cliquer.
+- **Même présentation dans les articles** des Actualités.
+
+### Pour l'admin
+
+Rien à faire : la mise à jour ne touche que l'affichage. Les exports Word et PDF gardent la liste complète des sources.
+
 ## 2.0.2 — Edith 2.0.2 : les rappels s'activent de nouveau
 
 *2026-11-11 · Correctif · touche : aucun*
