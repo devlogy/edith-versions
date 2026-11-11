@@ -2,6 +2,19 @@
 
 Edith est la mentore digitale conçue par Devlogy. Chaque version part de l'instance zéro (Devlogy) et rejoint les Edith des clients quand leur admin l'applique.
 
+## 2.0.2 — Edith 2.0.2 : les rappels s'activent de nouveau
+
+*2026-11-11 · Correctif · touche : aucun*
+
+Correctif : « Activer mes rappels » était refusé par Claude depuis un changement des tâches planifiées. Les rappels se créent de nouveau.
+
+### Pour l'admin
+
+- « Activer mes rappels » fonctionne de nouveau : chaque rappel ouvre sa propre session, ce que Claude exige désormais pour envoyer la notification et l'e-mail.
+- Si Claude demande dans quel environnement créer la tâche, Edith reprend celui qu'il propose.
+- Un rappel supprimé depuis Claude est recréé au lieu de provoquer une erreur.
+- Les rappels déjà actifs ne changent pas.
+
 ## 2.0.1 — Edith 2.0.1 : l'écran « Nouvelle mission » corrigé
 
 *2026-10-30 · Correctif · touche : Interface*

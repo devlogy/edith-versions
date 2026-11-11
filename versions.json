@@ -2,9 +2,28 @@
   "canal": "Actu spéciale Edith",
   "produit": "Edith",
   "editeur": "Devlogy",
-  "derniere": "2.0.1",
-  "maj": "2026-10-30",
+  "derniere": "2.0.2",
+  "maj": "2026-11-11",
   "versions": [
+    {
+      "version": "2.0.2",
+      "date": "2026-11-11",
+      "titre": "Edith 2.0.2 : les rappels s'activent de nouveau",
+      "chapeau": "",
+      "resume": "Correctif : « Activer mes rappels » était refusé par Claude depuis un changement des tâches planifiées. Les rappels se créent de nouveau.",
+      "equipe": "",
+      "admin": "- « Activer mes rappels » fonctionne de nouveau : chaque rappel ouvre sa propre session, ce que Claude exige désormais pour envoyer la notification et l'e-mail.\n- Si Claude demande dans quel environnement créer la tâche, Edith reprend celui qu'il propose.\n- Un rappel supprimé depuis Claude est recréé au lieu de provoquer une erreur.\n- Les rappels déjà actifs ne changent pas.",
+      "impact": {
+        "interface": false,
+        "prompt": false,
+        "base": false,
+        "taches": false
+      },
+      "importance": "correctif",
+      "promptAjouts": "",
+      "migration": "",
+      "capacites": false
+    },
     {
       "version": "2.0.1",
       "date": "2026-10-30",
