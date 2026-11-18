@@ -2,6 +2,26 @@
 
 Edith est la mentore digitale conçue par Devlogy. Chaque version part de l'instance zéro (Devlogy) et rejoint les Edith des clients quand leur admin l'applique.
 
+## 2.2.0 — Mettre une mission en pause
+
+*2026-11-18 · Recommandée · touche : Interface*
+
+Les missions peuvent se mettre en pause : elles quittent la liste active, les rappels n'en parlent plus, et elles reprennent telles quelles. Edith propose la pause après 30 jours sans activité.
+
+### Pour l'équipe
+
+**Tu peux mettre une mission en pause.** Un outil qui n'est plus prioritaire pour toi ? Ouvre sa carte (« Ma carte » sur téléphone) et clique sur « Mettre en pause ».
+
+- **Rien n'est effacé** : conversation, compétences, XP et badges restent intacts.
+- **Elle se range en bas de ta liste**, dans « En pause ». Un clic sur « Reprendre », ou simplement un message, et on continue là où tu t'étais arrêté·e.
+- **Je n'en parle plus** dans tes rappels, et mes actus mettent en avant tes missions actives.
+- **Je te la propose** quand une mission n'a pas bougé depuis un mois. Tu peux toujours refuser.
+
+### Pour l'admin
+
+- Le tableau de bord compte les missions en pause de chaque collègue (un nombre, jamais leur nom), dans la colonne Plateformes et dans l'export CSV.
+- Le message des rappels change : chaque collègue qui a activé ses rappels voit une fois « Mettre à jour mes rappels » sur l'accueil.
+
 ## 2.1.0 — Des sources discrètes
 
 *2026-11-11 · Mineure · touche : Interface*

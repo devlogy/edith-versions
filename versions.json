@@ -2,9 +2,28 @@
   "canal": "Actu spéciale Edith",
   "produit": "Edith",
   "editeur": "Devlogy",
-  "derniere": "2.1.0",
-  "maj": "2026-11-11",
+  "derniere": "2.2.0",
+  "maj": "2026-11-18",
   "versions": [
+    {
+      "version": "2.2.0",
+      "date": "2026-11-18",
+      "titre": "Mettre une mission en pause",
+      "chapeau": "Une mission qui n'est plus d'actualité peut maintenant se mettre en pause : elle quitte ta liste, sans rien perdre, et tu la reprends quand tu veux.",
+      "resume": "Les missions peuvent se mettre en pause : elles quittent la liste active, les rappels n'en parlent plus, et elles reprennent telles quelles. Edith propose la pause après 30 jours sans activité.",
+      "equipe": "**Tu peux mettre une mission en pause.** Un outil qui n'est plus prioritaire pour toi ? Ouvre sa carte (« Ma carte » sur téléphone) et clique sur « Mettre en pause ».\n\n- **Rien n'est effacé** : conversation, compétences, XP et badges restent intacts.\n- **Elle se range en bas de ta liste**, dans « En pause ». Un clic sur « Reprendre », ou simplement un message, et on continue là où tu t'étais arrêté·e.\n- **Je n'en parle plus** dans tes rappels, et mes actus mettent en avant tes missions actives.\n- **Je te la propose** quand une mission n'a pas bougé depuis un mois. Tu peux toujours refuser.",
+      "admin": "- Le tableau de bord compte les missions en pause de chaque collègue (un nombre, jamais leur nom), dans la colonne Plateformes et dans l'export CSV.\n- Le message des rappels change : chaque collègue qui a activé ses rappels voit une fois « Mettre à jour mes rappels » sur l'accueil.",
+      "impact": {
+        "interface": true,
+        "prompt": false,
+        "base": false,
+        "taches": false
+      },
+      "importance": "recommandee",
+      "promptAjouts": "",
+      "migration": "",
+      "capacites": false
+    },
     {
       "version": "2.1.0",
       "date": "2026-11-11",
