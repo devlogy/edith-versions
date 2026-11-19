@@ -2,6 +2,26 @@
 
 Edith est la mentore digitale conçue par Devlogy. Chaque version part de l'instance zéro (Devlogy) et rejoint les Edith des clients quand leur admin l'applique.
 
+## 2.3.0 — On fête tes réussites !
+
+*2026-11-19 · Recommandée · touche : Interface, Base de données*
+
+Edith célèbre les grands moments (niveau, mission terminée, badge, défi, quiz sans faute) avec confettis et fanfare. Trois réactions en un clic, et un mur « Les succès de l'équipe » où l'on partage et applaudit.
+
+### Pour l'équipe
+
+**On fête tes réussites !** Quand tu passes un niveau, termines une mission, gagnes un badge, réussis un défi ou un quiz sans faute, je sors les confettis.
+
+- **Petite pluie** pour un défi, un badge ou un quiz parfait ; **grande explosion** pour un niveau gagné ou une mission terminée.
+- **Dis-moi ce que tu ressens** : 🎉 « Trop fier·e ! », 💪 « Au suivant ! » ou 🙏 « Merci Edith ». Je te réponds, et ta réaction reste dans la conversation.
+- **Partage à l'équipe** : un clic et ton succès arrive sur la page Équipe, où les collègues peuvent t'applaudir 👏. Rien n'est partagé sans ton clic.
+- **Une petite fanfare** accompagne la fête : tu peux la couper dans Réglages → Célébrations.
+
+### Pour l'admin
+
+- Une nouvelle règle d'accès protège les succès partagés : chacun écrit les siens, toute l'équipe les lit. Les applaudissements utilisent les votes existants.
+- Si l'appareil demande de réduire les animations, la carte s'affiche sans confettis.
+
 ## 2.2.0 — Mettre une mission en pause
 
 *2026-11-18 · Recommandée · touche : Interface*

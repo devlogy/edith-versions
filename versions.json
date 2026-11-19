@@ -2,9 +2,28 @@
   "canal": "Actu spéciale Edith",
   "produit": "Edith",
   "editeur": "Devlogy",
-  "derniere": "2.2.0",
-  "maj": "2026-11-18",
+  "derniere": "2.3.0",
+  "maj": "2026-11-19",
   "versions": [
+    {
+      "version": "2.3.0",
+      "date": "2026-11-19",
+      "titre": "On fête tes réussites !",
+      "chapeau": "Un niveau gagné, un défi réussi, un quiz sans faute ? Maintenant, on le fête : confettis, petite fanfare, et tu peux me dire ce que tu ressens.",
+      "resume": "Edith célèbre les grands moments (niveau, mission terminée, badge, défi, quiz sans faute) avec confettis et fanfare. Trois réactions en un clic, et un mur « Les succès de l'équipe » où l'on partage et applaudit.",
+      "equipe": "**On fête tes réussites !** Quand tu passes un niveau, termines une mission, gagnes un badge, réussis un défi ou un quiz sans faute, je sors les confettis.\n\n- **Petite pluie** pour un défi, un badge ou un quiz parfait ; **grande explosion** pour un niveau gagné ou une mission terminée.\n- **Dis-moi ce que tu ressens** : 🎉 « Trop fier·e ! », 💪 « Au suivant ! » ou 🙏 « Merci Edith ». Je te réponds, et ta réaction reste dans la conversation.\n- **Partage à l'équipe** : un clic et ton succès arrive sur la page Équipe, où les collègues peuvent t'applaudir 👏. Rien n'est partagé sans ton clic.\n- **Une petite fanfare** accompagne la fête : tu peux la couper dans Réglages → Célébrations.",
+      "admin": "- Une nouvelle règle d'accès protège les succès partagés : chacun écrit les siens, toute l'équipe les lit. Les applaudissements utilisent les votes existants.\n- Si l'appareil demande de réduire les animations, la carte s'affiche sans confettis.",
+      "impact": {
+        "interface": true,
+        "prompt": false,
+        "base": true,
+        "taches": false
+      },
+      "importance": "recommandee",
+      "promptAjouts": "",
+      "migration": "",
+      "capacites": true
+    },
     {
       "version": "2.2.0",
       "date": "2026-11-18",
